@@ -1,0 +1,22 @@
+{
+  "name": "rudrokhanpro.github.io",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudrokhanpro/rudrokhanpro.github.io.git"
+  },
+  "keywords": [],
+  "author": "Rudro Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rudrokhanpro/rudrokhanpro.github.io/issues"
+  },
+  "homepage": "https://rudrokhanpro.github.io/",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
